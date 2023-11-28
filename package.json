@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elitkondor.github.io/StarWars-DB/",
+  "homepage": "https://elitkondor.github.io/Three.js-Portdolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
