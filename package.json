@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elitkondor.github.io/Three.js-Portdolio/",
+  "homepage": "https://elitkondor.github.io/Three.js-Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
