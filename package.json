@@ -1,9 +1,8 @@
 {
+  "homepage": "https://elitkondor.github.io/Three.js-Portfolio/",
   "name": "three.js-portfolio",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://elitkondor.github.io/Three.js-Portfolio/",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
